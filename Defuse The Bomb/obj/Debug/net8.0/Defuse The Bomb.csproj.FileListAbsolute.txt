@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\bin\Debug\net8.0\Defuse The Bomb.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\bin\Debug\net8.0\Defuse The Bomb.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\bin\Debug\net8.0\Defuse The Bomb.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\bin\Debug\net8.0\Defuse The Bomb.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\bin\Debug\net8.0\Defuse The Bomb.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\refint\Defuse The Bomb.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\Defuse The Bomb.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Defuse The Bomb\obj\Debug\net8.0\ref\Defuse The Bomb.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\bin\Debug\net8.0\Defanging an IP Address.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\bin\Debug\net8.0\Defanging an IP Address.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\bin\Debug\net8.0\Defanging an IP Address.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\bin\Debug\net8.0\Defanging an IP Address.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\bin\Debug\net8.0\Defanging an IP Address.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\refint\Defanging an IP Address.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\Defanging an IP Address.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Defanging an IP Address\obj\Debug\net8.0\ref\Defanging an IP Address.dll
