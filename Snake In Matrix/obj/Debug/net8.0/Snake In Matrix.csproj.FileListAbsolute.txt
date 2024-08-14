@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\bin\Debug\net8.0\Snake In Matrix.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\bin\Debug\net8.0\Snake In Matrix.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\bin\Debug\net8.0\Snake In Matrix.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\bin\Debug\net8.0\Snake In Matrix.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\bin\Debug\net8.0\Snake In Matrix.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\refint\Snake In Matrix.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\Snake In Matrix.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Snake In Matrix\obj\Debug\net8.0\ref\Snake In Matrix.dll
