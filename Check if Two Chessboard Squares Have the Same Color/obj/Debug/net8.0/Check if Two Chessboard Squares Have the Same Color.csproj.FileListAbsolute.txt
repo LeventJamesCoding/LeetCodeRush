@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\bin\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\bin\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\bin\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\bin\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\bin\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\refint\Check if Two Chessboard Squares Have the Same Color.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\Check if Two Chessboard Squares Have the Same Color.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Check if Two Chessboard Squares Have the Same Color\obj\Debug\net8.0\ref\Check if Two Chessboard Squares Have the Same Color.dll
