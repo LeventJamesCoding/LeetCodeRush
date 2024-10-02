@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\bin\Debug\net8.0\Rank Transform of an Array.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\bin\Debug\net8.0\Rank Transform of an Array.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\bin\Debug\net8.0\Rank Transform of an Array.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\bin\Debug\net8.0\Rank Transform of an Array.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\bin\Debug\net8.0\Rank Transform of an Array.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\refint\Rank Transform of an Array.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\Rank Transform of an Array.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Rank Transform of an Array\obj\Debug\net8.0\ref\Rank Transform of an Array.dll
