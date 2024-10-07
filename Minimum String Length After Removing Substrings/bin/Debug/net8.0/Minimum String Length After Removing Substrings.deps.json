@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Minimum String Length After Removing Substrings/1.0.0": {
+        "runtime": {
+          "Minimum String Length After Removing Substrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum String Length After Removing Substrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

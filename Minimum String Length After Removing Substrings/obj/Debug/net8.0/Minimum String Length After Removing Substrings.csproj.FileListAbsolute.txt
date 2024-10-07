@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\bin\Debug\net8.0\Minimum String Length After Removing Substrings.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\bin\Debug\net8.0\Minimum String Length After Removing Substrings.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\bin\Debug\net8.0\Minimum String Length After Removing Substrings.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\bin\Debug\net8.0\Minimum String Length After Removing Substrings.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\bin\Debug\net8.0\Minimum String Length After Removing Substrings.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\refint\Minimum String Length After Removing Substrings.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\Minimum String Length After Removing Substrings.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum String Length After Removing Substrings\obj\Debug\net8.0\ref\Minimum String Length After Removing Substrings.dll
