@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\bin\Debug\net8.0\Minimum Bit Flips To Convert Number.exe
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\bin\Debug\net8.0\Minimum Bit Flips To Convert Number.deps.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\bin\Debug\net8.0\Minimum Bit Flips To Convert Number.runtimeconfig.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\bin\Debug\net8.0\Minimum Bit Flips To Convert Number.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\bin\Debug\net8.0\Minimum Bit Flips To Convert Number.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.sourcelink.json
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\refint\Minimum Bit Flips To Convert Number.dll
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.pdb
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\Minimum Bit Flips To Convert Number.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LeetCode Marathon\Minimum Bit Flips To Convert Number\obj\Debug\net8.0\ref\Minimum Bit Flips To Convert Number.dll
