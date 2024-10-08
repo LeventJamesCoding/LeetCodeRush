@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Count the Number of Consistent Strings/1.0.0": {
+        "runtime": {
+          "Count the Number of Consistent Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count the Number of Consistent Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
