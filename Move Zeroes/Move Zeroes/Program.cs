@@ -8,24 +8,29 @@
     {
         public void MoveZeroes(int[] nums)
         {
-            int zeroCount = 0;
-            for (int i = 0; i < nums.Length; i++) 
+            List<int> dummyNums = new List<int>();
+            int zeroCounts = 0;
+
+            foreach (int x in nums)
             {
-                if (nums[i] == 0)
+                if (x != 0)
                 {
-                    zeroCount++; 
+                    dummyNums.Add(x);
                 }
-                else if (zeroCount > 0)
+                else
                 {
-                    nums[i - zeroCount] = nums[i];
+                    zeroCounts++;
                 }
             }
-            int right = nums.Length - 1; 
-            while (zeroCount > 0)
+
+            for (int i = 0; i < zeroCounts; i++)
             {
-                nums[right] = 0;
-                zeroCount--; 
-                right--; 
+                dummyNums.Add(0);
+            }
+            
+            for(int i = 0; i < nums.Length; i++)
+            {
+                nums[i] = dummyNums[i];
             }
         }
     }
